@@ -1,2 +1,5 @@
 # cecs575_group05
-eCommerce Website
+E-commerce Website by:
+Deepa Padhee
+Shikha Singh
+Vidyashree Nagaraja
